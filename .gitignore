@@ -1,0 +1,4 @@
+build
+dist
+fakeredis.egg-info/
+*.pyc
